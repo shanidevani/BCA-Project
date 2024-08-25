@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+.weltext{
+    text-align: center;
+    font-size: 30px;
+    font-family:'Raleway', sans-serif;
+    position: relative;
+
+}
+.w{
+    /* background-color: yellow; */
+    color: red;
+    display: inline;
+   
+}
+.come{
+    /* background-color: brown; */
+    color: black;
+    display: inline;
+}
+
+.welcome{
+    /* background-color: blue; */
+    height: 20%;
+}
+
+
+
+.aboutwel{
+    /* background-color: aqua; */
+    display: inline-block;
+    /* float: left; */
+    height: 50%;
+    width: 50%;
+    text-align: center;
+    margin-top: 10%;
+}
+.aboutimg{
+/* background-color: blue; */
+display: inline;
+float: right;
+
+
+}
+
+.a1{
+    font-size: 50px;
+}

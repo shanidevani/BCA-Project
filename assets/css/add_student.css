@@ -1,0 +1,38 @@
+tr td
+{
+    padding: 15px;
+}
+td{
+border: 5px;
+border-color: rgb(0, 0, 0);
+}
+table
+{
+    margin-left: 30%;
+    margin-right: 10%;
+}
+input[type=submit]
+{
+  width: 15%;
+  padding: 10px 10px 10px 10px;
+  box-sizing: border-box;
+    border: 1px solid #555;
+    outline: none;
+    background: #002147;
+    color: #ffb71c;
+    
+}
+input[type=text] 
+{
+    width: auto;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #555;
+    outline: none;
+    background-color: #ffb71c;
+  }
+  
+  input[type=text]:focus {
+    background-color: lightblue;
+  }

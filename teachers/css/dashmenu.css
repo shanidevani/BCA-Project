@@ -1,0 +1,22 @@
+
+.all{
+    text-align: center  ;
+   }
+   
+   .center {
+       margin: auto;
+       width: 20%;
+       border: 3px solid #ffb71c;
+       padding: 10px;
+       display: inline-flex;
+       text-align: center;
+      
+       
+     }
+     .studenttext{
+         margin: 2px;
+         
+         
+         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+     }
+  

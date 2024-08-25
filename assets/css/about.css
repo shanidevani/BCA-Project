@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.abouttext{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    padding-left: 30px;   
+    font-weight: bold;
+    padding: 20px;
+}
+
+.a{
+    color: black;
+    display: inline;
+   
+    width: 2%;
+   
+    color: #ffb71c;
+}
+.bout{
+    color: #002147;
+    display: inline;
+    
+    text-transform: uppercase;
+    
+}
+
+.u{
+    display: inline;
+    color: #ffb71c;
+}
+.s{
+    display: inline;
+    color: #002147;
+}
+.aboutpera{
+    height: 50%;
+    width: 50%;
+ /* display: inline;
+ float: left;
+ text-align: center; */
+
+}
+.aboutpera p {
+display: inline;
+ float: left;
+ text-align: left;
+ padding: 20px;
+ margin: auto;
+
+}
+
+.aboutimg{
+
+display: inline;
+float: right;
+padding: 20px;
+
+}
+
+.historytext{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    padding-left: 30px;   
+    font-weight: bold;
+}
+
+
+.h{
+    display: inline;
+    color: #ffb71c;
+}
+.istory{
+    display: inline;
+    color: #002147;
+}
+.o{
+    display: inline;
+    color: #ffb71c;
+}
+.f{
+    display: inline;
+    color: #002147;
+}
+.vit{
+    display: inline;
+    color: #ffb71c;
+}
+
+.historypera{
+    height: 50%;
+    width: 50%;
+ /* display: inline;
+ float: left;
+ text-align: center; */
+
+}
+.historypera p {
+display: inline;
+ float: left;
+ text-align: left;
+ padding: 20px;
+ margin: auto;
+
+}
+
+.historyimg{
+display: inline;
+float: right;
+padding: 20px;
+
+}
